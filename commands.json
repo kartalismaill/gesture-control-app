@@ -1,0 +1,58 @@
+{
+    "right el 1": {
+        "type": "mouse",
+        "action": "left_click"
+    },
+    "right el 2": {
+        "type": "mouse",
+        "action": "right_click"
+    },
+    "right el 3": {
+        "type": "mouse",
+        "action": "scroll_up"
+    },
+    "right el 4": {
+        "type": "mouse",
+        "action": "scroll_down"
+    },
+    "right el 5": {
+        "type": "mouse",
+        "action": "move"
+    },
+    "right el kapal\u0131": {
+        "type": "keyboard",
+        "keys": "ctrl+c"
+    },
+    "right el olumlu": {
+        "type": "keyboard",
+        "keys": "ctrl+v"
+    },
+    "left el 1": {
+        "type": "keyboard",
+        "keys": "alt+tab"
+    },
+    "left el 2": {
+        "type": "keyboard",
+        "keys": "win+d"
+    },
+    "left el 3": {
+        "type": "keyboard",
+        "keys": "ctrl+z"
+    },
+    "left el 4": {
+        "type": "keyboard",
+        "keys": "ctrl+y"
+    },
+    "left el 5": {
+        "type": "app",
+        "value": "notepad.exe"
+    },
+    "left el kapal\u0131": {
+        "type": "app",
+        "value": "calc.exe"
+    },
+    "left el olumlu": {
+        "type": "app",
+        "value": "mspaint.exe"
+    }
+}

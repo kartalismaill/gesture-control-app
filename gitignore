@@ -1,0 +1,16 @@
+# Python cache ve geçici dosyalar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE ayar klasörleri
+.vscode/
+.idea/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Kullanıcıya özel JSON dosyası
+commands.json
