@@ -115,8 +115,8 @@ class GestureApp:
         Button(main_frame, text="Kontrolü Başlat", command=self.start_camera_threaded, width=35).pack(pady=5)
         Button(main_frame, text="Hareket Ekle", command=self.show_add_gesture_menu, width=35).pack(pady=5)
         Button(main_frame, text="Kayıtlı Hareketleri Görüntüle", command=self.show_saved_gestures, width=35).pack(pady=5)
-        Button(main_frame, text="Çıkış", command=self.root.destroy, width=35).pack(pady=5)
         Button(main_frame, text="Komutları Sıfırla", command=self.reset_commands, width=35).pack(pady=5)
+        Button(main_frame, text="Çıkış", command=self.root.destroy, width=35).pack(pady=5)
 
     # ------------------ Kamera ------------------
     def reset_commands(self):
